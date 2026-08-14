@@ -9,11 +9,14 @@
 <!-- ===== タイピングアニメーション ===== -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+small+tools+for+chemists" alt="Typing SVG" /></a>
 
+<p style="font-size: 1.5rem;">
+  🔗<a href="https://holy-negi.github.io/portfolio/">Visit my Portfolio</a>
+</p>
 </div>
 
 ---
 <!-- ===== スタック ===== -->
-### Stack
+### Stacks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LuaLaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
@@ -25,18 +28,18 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ![ChemDraw](https://img.shields.io/badge/ChemDraw-C1361F?style=for-the-badge&logoColor=white)
-![GAMESS](https://img.shields.io/badge/GAMESS-3057A8?style=for-the-badge&logoColor=white)
+<!-- ![GAMESS](https://img.shields.io/badge/GAMESS-3057A8?style=for-the-badge&logoColor=white) -->
 
 <!-- ===== プロジェクト ===== -->
 ### Projects
 
 |                                                                           |                                                          |
 | ------------------------------------------------------------------------- | -------------------------------------------------------- |
-| [**latex-for-chemists**](https://github.com/holy-negi/latex-for-chemists) | Coming later...                                          |
 | [**synth-eln**](https://github.com/USERNAME/chemscope)                    | 化学物性値計算・自動当量表生成機能を有した電子実験ノート |
+| [**latex-for-chemists**](https://github.com/holy-negi/latex-for-chemists) | Coming later...                                          |
 
 <!-- ===== 自動更新セクション（このマーカーの間は Actions が書き換えます） ===== -->
-### Recent activity
+### Recent activities
 
 <!-- ACTIVITY:START -->
 - （直近の公開アクティビティはありません）
