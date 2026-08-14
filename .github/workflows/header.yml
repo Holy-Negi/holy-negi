@@ -15,7 +15,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Compile chemfig to SVG
         uses: xu-cheng/latex-action@v3
         with:
@@ -23,15 +23,17 @@ jobs:
           work_in_root_file_dir: true
           compiler: dvilualatex
           args: -interaction=nonstopmode -halt-on-error
+          # post_compile は work_in_root_file_dir の pushd を抜けた後、
+          # リポジトリのルートで実行されるので assets/ を明示する
           post_compile: >-
             dvisvgm --no-fonts --exact-bbox
-            -o header-molecule.raw.svg header-molecule.dvi
+            -o assets/header-molecule.raw.svg assets/header-molecule.dvi
 
       # コンテナは root で書き込むので、後続ステップのために所有者を戻す
       - name: Fix ownership
         run: sudo chown -R "$(id -u):$(id -g)" .
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
@@ -47,7 +49,7 @@ jobs:
       - name: Clean intermediates
         run: rm -f assets/*.dvi assets/*.aux assets/*.log assets/header-molecule.raw.svg
 
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "chore: rebuild molecule header"
           file_pattern: "assets/*.svg"
