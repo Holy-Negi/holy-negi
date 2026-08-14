@@ -39,7 +39,9 @@
 ### Recent activity
 
 <!-- ACTIVITY:START -->
-- （初回の Actions 実行後にここが埋まります）
+- （直近の公開アクティビティはありません）
+
+<sub>最終更新: 2026-08-14 14:03 JST</sub>
 <!-- ACTIVITY:END -->
 
 <!-- ===== 統計 ===== -->
