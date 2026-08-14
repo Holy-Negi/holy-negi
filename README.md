@@ -54,7 +54,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Holy-Negi/holy-negi/output/snake-dark.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Holy-Negi/holy-negi/output/snake.svg">
 </picture>
 
 </div>
