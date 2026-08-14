@@ -1,0 +1,30 @@
+% ---------------------------------------------------------------
+%   dvilualatex -interaction=nonstopmode header-molecule.tex
+%   dvisvgm --no-fonts --exact-bbox -o header-molecule.raw.svg header-molecule.dvi
+%   python3 ../scripts/animate_svg.py header-molecule.raw.svg -o header-molecule-light.svg
+% ---------------------------------------------------------------
+\documentclass[crop,border=6pt]{standalone}
+\def\pgfsysdriver{pgfsys-dvisvgm.def}
+\usepackage{chemfig}
+
+\begin{document}
+
+\setchemfig{
+  atom sep        = 2.6em,   % 結合長
+  bond style      = {line width=1.15pt},
+  double bond sep = 3.4pt,
+}
+
+% ---- 描く分子はこの1行だけ差し替えればよい ----------------------
+% トリプタミン
+% 縮環は「小さい環をブランチ (*5(...)) として書く」記法でないと閉じない。
+% また *6(-=-(...)) のように2本引いた後の頂点に付けるのが安定。
+\chemfig{*6(-=-(*5(-NH-=(-[:60]-[:0]-[:60]NH_2)-))=-=)}
+
+% 他の例:
+% ベンゼン        \chemfig{*6(-=-=-=)}
+% サリチル酸      \chemfig{*6(=-=(-C(=[:30]O)-[:-30]OH)-(-OH)=-)}
+% カフェイン      \chemfig{*6((=O)-N(-)-(*5(-N=-N(-)-))=-(=O)-N(-)-)}
+% -----------------------------------------------------------------
+
+\end{document}
