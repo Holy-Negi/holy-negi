@@ -1,0 +1,29 @@
+name: Update activity section
+
+on:
+  schedule:
+    - cron: "17 21 * * *" # UTC 21:17 = JST 06:17
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Rewrite README section
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/update_readme.py --user "${{ github.repository_owner }}"
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update activity section"
+          file_pattern: "README.md"

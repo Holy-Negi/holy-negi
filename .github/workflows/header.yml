@@ -1,0 +1,53 @@
+name: Build molecule header
+
+on:
+  push:
+    paths:
+      - "assets/*.tex"
+      - "scripts/animate_svg.py"
+      - ".github/workflows/header.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Compile chemfig to SVG
+        uses: xu-cheng/latex-action@v3
+        with:
+          root_file: assets/header-molecule.tex
+          work_in_root_file_dir: true
+          compiler: dvilualatex
+          args: -interaction=nonstopmode -halt-on-error
+          post_compile: >-
+            dvisvgm --no-fonts --exact-bbox
+            -o header-molecule.raw.svg header-molecule.dvi
+
+      # コンテナは root で書き込むので、後続ステップのために所有者を戻す
+      - name: Fix ownership
+        run: sudo chown -R "$(id -u):$(id -g)" .
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Animate (light / dark)
+        run: |
+          python3 scripts/animate_svg.py assets/header-molecule.raw.svg \
+            -o assets/header-molecule-light.svg \
+            --ink '#1B2430' --nitrogen '#3057A8' --oxygen '#C1361F'
+          python3 scripts/animate_svg.py assets/header-molecule.raw.svg \
+            -o assets/header-molecule-dark.svg \
+            --ink '#E6EDF3' --nitrogen '#7EA6FF' --oxygen '#FF8A75'
+
+      - name: Clean intermediates
+        run: rm -f assets/*.dvi assets/*.aux assets/*.log assets/header-molecule.raw.svg
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: rebuild molecule header"
+          file_pattern: "assets/*.svg"
