@@ -1,0 +1,51 @@
+name: Generate summary cards
+
+on:
+  schedule:
+    - cron: "40 21 * * *" # UTC 21:40 = JST 06:40
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      # このアクションは実行のたびに profile-summary-card-output/ を丸ごと
+      # 削除してから生成する（src/app.ts の "Remove old cards"）。
+      # そのため 2 テーマを続けて作るには、1 つ目の出力を退避しておく必要がある。
+      - name: Generate light theme
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 9 # Productive time カードを JST で集計する
+          THEME: github
+          AUTO_PUSH: false
+
+      - name: Stash light theme
+        run: |
+          mkdir -p "$RUNNER_TEMP/cards"
+          cp -r profile-summary-card-output/github "$RUNNER_TEMP/cards/"
+
+      - name: Generate dark theme
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 9
+          THEME: github_dark
+          AUTO_PUSH: false
+
+      - name: Restore light theme
+        run: cp -r "$RUNNER_TEMP/cards/github" profile-summary-card-output/
+
+      - uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "chore: update profile summary cards"
+          file_pattern: "profile-summary-card-output/**"
