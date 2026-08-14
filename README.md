@@ -49,8 +49,14 @@
 
 <div align="center">
 
-<img height="150" alt="stats" src="https://github-readme-stats.vercel.app/api?username=Holy-Negi&show_icons=true&hide_border=true&title_color=3057A8&icon_color=C1361F">
-<img height="150" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Holy-Negi&layout=compact&hide_border=true&title_color=3057A8">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg">
+  <img height="150" alt="stats" src="profile-summary-card-output/github/3-stats.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/1-repos-per-language.svg">
+  <img height="150" alt="languages" src="profile-summary-card-output/github/1-repos-per-language.svg">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Holy-Negi/holy-negi/output/snake-dark.svg">
