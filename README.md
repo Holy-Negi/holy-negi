@@ -35,7 +35,7 @@
 
 |                                                                           |                                                          |
 | ------------------------------------------------------------------------- | -------------------------------------------------------- |
-| [**synth-eln**](https://github.com/USERNAME/chemscope)                    | 化学物性値計算・自動当量表生成機能を有した電子実験ノート |
+| [**synth-eln**]([https://github.com/USERNAME/chemscope](https://github.com/Holy-Negi/synth-eln)| 化学物性値計算・自動当量表生成機能を有した電子実験ノート |
 | [**latex-for-chemists**](https://github.com/holy-negi/latex-for-chemists) | Coming later...                                          |
 
 <!-- ===== 自動更新セクション（このマーカーの間は Actions が書き換えます） ===== -->
