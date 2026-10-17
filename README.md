@@ -77,7 +77,7 @@
 <!-- ACTIVITY:START -->
 - [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `add some features` <sub>(1日前)</sub>
 
-<sub>最終更新: 2026-10-18 04:34 JST</sub>
+<sub>最終更新: 2026-10-18 04:38 JST</sub>
 <!-- ACTIVITY:END -->
 
 ### ⚗️ Molecule of the Day
@@ -86,11 +86,11 @@
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/molecule-dark.svg">
-  <img src="assets/molecule-light.svg" alt="N-(2,6-dimethylphenyl)-3-hydroxythieno[2,3-b]pyridine-2-carboxamide" width="360">
+  <img src="assets/molecule-light.svg" alt="6-fluoro-1-methyl-4-oxo-N-pyridin-4-ylcinnoline-3-carboxamide" width="360">
 </picture>
 <br>
-<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/139601050">N-(2,6-dimethylphenyl)-3-hydroxythieno[2,3-b]pyridine-2-carboxamide</a></b><br>
-C<sub>16</sub>H<sub>14</sub>N<sub>2</sub>O<sub>2</sub>S · 298.4 g/mol · CID 139601050<br>
+<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/52022145">6-fluoro-1-methyl-4-oxo-N-pyridin-4-ylcinnoline-3-carboxamide</a></b><br>
+C<sub>15</sub>H<sub>11</sub>FN<sub>4</sub>O<sub>2</sub> · 298.27 g/mol · CID 52022145<br>
 <sub>Randomly picked from PubChem on 2026-10-18</sub>
 </div>
 <!-- MOLECULE:END -->
