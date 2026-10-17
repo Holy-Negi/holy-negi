@@ -77,7 +77,7 @@
 <!-- ACTIVITY:START -->
 - [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `add some features` <sub>(1日前)</sub>
 
-<sub>最終更新: 2026-10-18 04:45 JST</sub>
+<sub>最終更新: 2026-10-18 08:11 JST</sub>
 <!-- ACTIVITY:END -->
 
 ### ⚗️ Molecule of the Day
@@ -85,12 +85,12 @@
 <!-- MOLECULE:START -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/62375115-dark.svg">
-  <img src="assets/molecule/62375115-light.svg" alt="3-[4-(1-Methylimidazol-4-yl)sulfonylpiperazin-1-yl]propanoic acid" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/19336082-dark.svg">
+  <img src="assets/molecule/19336082-light.svg" alt="N-[1-[(2-chloro-4-fluorophenyl)methyl]pyrazol-4-yl]-3-[(2,5-dimethylphenoxy)methyl]benzamide" width="360">
 </picture>
 <br>
-<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/62375115">3-[4-(1-Methylimidazol-4-yl)sulfonylpiperazin-1-yl]propanoic acid</a></b><br>
-C<sub>11</sub>H<sub>18</sub>N<sub>4</sub>O<sub>4</sub>S · 302.35 g/mol · CID 62375115<br>
+<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/19336082">N-[1-[(2-chloro-4-fluorophenyl)methyl]pyrazol-4-yl]-3-[(2,5-dimethylphenoxy)methyl]benzamide</a></b><br>
+C<sub>26</sub>H<sub>23</sub>ClFN<sub>3</sub>O<sub>2</sub> · 463.9 g/mol · CID 19336082<br>
 <sub>Randomly picked from PubChem on 2026-10-18</sub>
 </div>
 <!-- MOLECULE:END -->
