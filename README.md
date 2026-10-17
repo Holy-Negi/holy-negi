@@ -77,7 +77,7 @@
 <!-- ACTIVITY:START -->
 - [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `add some features` <sub>(1日前)</sub>
 
-<sub>最終更新: 2026-10-18 04:38 JST</sub>
+<sub>最終更新: 2026-10-18 04:45 JST</sub>
 <!-- ACTIVITY:END -->
 
 ### ⚗️ Molecule of the Day
@@ -85,12 +85,12 @@
 <!-- MOLECULE:START -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/172837422-dark.svg">
-  <img src="assets/molecule/172837422-light.svg" alt="1-[5-[2-(4-Chlorophenyl)ethyl]-1-methylpyrrol-2-yl]propan-2-one" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/62375115-dark.svg">
+  <img src="assets/molecule/62375115-light.svg" alt="3-[4-(1-Methylimidazol-4-yl)sulfonylpiperazin-1-yl]propanoic acid" width="360">
 </picture>
 <br>
-<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/172837422">1-[5-[2-(4-Chlorophenyl)ethyl]-1-methylpyrrol-2-yl]propan-2-one</a></b><br>
-C<sub>16</sub>H<sub>18</sub>ClNO · 275.77 g/mol · CID 172837422<br>
+<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/62375115">3-[4-(1-Methylimidazol-4-yl)sulfonylpiperazin-1-yl]propanoic acid</a></b><br>
+C<sub>11</sub>H<sub>18</sub>N<sub>4</sub>O<sub>4</sub>S · 302.35 g/mol · CID 62375115<br>
 <sub>Randomly picked from PubChem on 2026-10-18</sub>
 </div>
 <!-- MOLECULE:END -->
