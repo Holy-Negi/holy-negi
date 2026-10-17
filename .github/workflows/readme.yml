@@ -1,0 +1,40 @@
+name: Update README sections
+
+on:
+  schedule:
+    - cron: "17 21 * * *" # UTC 21:17 = JST 06:17
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip # 2 回目以降は RDKit のダウンロードを省略する
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Recent activities
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/update_readme.py --user "${{ github.repository_owner }}"
+
+      - name: Latest articles
+        run: python3 scripts/latest_articles.py --qiita Holy_ --zenn nekiroh
+
+      - name: Molecule of the Day
+        run: python3 scripts/molecule_of_the_day.py
+
+      - uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "chore: update README sections"
+          file_pattern: "README.md assets/molecule-*.svg"

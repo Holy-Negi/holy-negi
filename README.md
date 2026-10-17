@@ -6,49 +6,97 @@
   <img src="assets/header-molecule-light.svg" alt="tryptamine" width="300">
 </picture>
 
-<!-- ===== タイピングアニメーション ===== -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+small+tools+for+chemists" alt="Typing SVG" /></a>
+<!-- ===== タイピングアニメーション（lines は ; 区切り、+ は空白、%C3%97 は ×） ===== -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=480&lines=Organic+Chemist+%C3%97+Software;Building+small+tools+for+chemists;Structuring+lab+data+with+code" alt="Typing SVG" /></a>
 
-<p style="font-size: 1.5rem;">
-  🔗<a href="https://holy-negi.github.io/portfolio/">Visit my Portfolio</a>
-</p>
+<!-- ===== リンク ===== -->
+<a href="https://holy-negi.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+<a href="https://qiita.com/Holy_"><img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita"></a>
+<a href="https://zenn.dev/nekiroh"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn"></a>
+
 </div>
 
 ---
-<!-- ===== スタック ===== -->
-### Stacks
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LuaLaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<!-- ===== スタック（skillicons.dev の i= にアイコン ID をカンマ区切りで指定） ===== -->
+### 🛠️ Stacks
 
-![ChemDraw](https://img.shields.io/badge/ChemDraw-C1361F?style=for-the-badge&logoColor=white)
-<!-- ![GAMESS](https://img.shields.io/badge/GAMESS-3057A8?style=for-the-badge&logoColor=white) -->
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py,html,css,js,cpp" alt="Python, HTML, CSS, JavaScript, C++"></td>
+  </tr>
+  <tr>
+    <td><b>Frameworks & DB</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,fastapi,postgres" alt="React, FastAPI, PostgreSQL"></td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=linux,bash,vscode,latex,git,github" alt="Linux, Bash, VS Code, LaTeX, Git, GitHub"></td>
+  </tr>
+  <tr>
+    <td><b>Chemistry</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/ChemDraw-C1361F?style=for-the-badge" alt="ChemDraw">
+      <img src="https://img.shields.io/badge/GAMESS-3057A8?style=for-the-badge" alt="GAMESS">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Lab</b></td>
+    <!-- shields のラベルでは _ が空白、-- が - として表示される -->
+    <td>
+      <img src="https://img.shields.io/badge/Organic_Synthesis-2E7D32?style=for-the-badge" alt="Organic Synthesis">
+      <img src="https://img.shields.io/badge/NMR-6A1B9A?style=for-the-badge" alt="NMR">
+      <img src="https://img.shields.io/badge/LC--MS-00838F?style=for-the-badge" alt="LC-MS">
+    </td>
+  </tr>
+</table>
 
 <!-- ===== プロジェクト ===== -->
-### Projects
+### 🚀 Projects
 
-|                                                                           |                                                          |
-| ------------------------------------------------------------------------- | -------------------------------------------------------- |
-| [**synth-eln**](https://github.com/Holy-Negi/synth-eln)| 化学物性値計算・自動当量表生成機能を有した電子実験ノート |
-| [**latex-for-chemists**](https://github.com/holy-negi/latex-for-chemists) | Coming later...                                          |
+| Project                                                                   | Description                                              | Tech                                          |
+| ------------------------------------------------------------------------- | -------------------------------------------------------- | --------------------------------------------- |
+| [**synth-eln**](https://github.com/Holy-Negi/synth-eln)                   | 化学物性値計算・自動当量表生成機能を有した電子実験ノート | Python · FastAPI · PostgreSQL · React · RDKit |
+| [**Structure_Exporter**](https://github.com/Holy-Negi/Structure_Exporter) | ChemDraw の選択範囲を SVG / PNG で書き出すアドイン       | ChemDraw · JavaScript                         |
+| **latex-for-chemists**                                                    | 🚧 Coming soon...                                         | LaTeX                                         |
 
-<!-- ===== 自動更新セクション（このマーカーの間は Actions が書き換えます） ===== -->
-### Recent activities
+<!-- ===== 以下の自動更新セクションは、マーカーの間を Actions が毎日書き換えます ===== -->
+### ✍️ Latest articles
+
+<!-- ARTICLES:START -->
+- [chemfigで化学構造式をACS Styleで描画する](https://qiita.com/Holy_/items/15f0140aac99b37ff8a5) <a href="https://qiita.com/Holy_/items/15f0140aac99b37ff8a5"><img src="https://img.shields.io/badge/Qiita-55C500?style=flat-square&logo=qiita&logoColor=white" alt="Qiita"></a> <a href="https://zenn.dev/nekiroh/articles/e88e06aad85667"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=flat-square&logo=zenn&logoColor=white" alt="Zenn"></a> <sub>2026-10-11</sub>
+- [YAMLをコマンドラインで検索・抽出・編集できるyqコマンドの使い方](https://qiita.com/Holy_/items/c6e356e3df48c1f6a154) <a href="https://qiita.com/Holy_/items/c6e356e3df48c1f6a154"><img src="https://img.shields.io/badge/Qiita-55C500?style=flat-square&logo=qiita&logoColor=white" alt="Qiita"></a> <sub>2026-09-20</sub>
+- [CSVをSQLデータベースのように扱えるqコマンドの使い方](https://qiita.com/Holy_/items/74250810cc9a75584e74) <a href="https://qiita.com/Holy_/items/74250810cc9a75584e74"><img src="https://img.shields.io/badge/Qiita-55C500?style=flat-square&logo=qiita&logoColor=white" alt="Qiita"></a> <sub>2026-08-20</sub>
+- [はじめまして](https://zenn.dev/nekiroh/articles/1bc7a54d0c3320) <a href="https://zenn.dev/nekiroh/articles/1bc7a54d0c3320"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=flat-square&logo=zenn&logoColor=white" alt="Zenn"></a> <sub>2026-08-15</sub>
+- [LaTeXにChemDrawで描画した化学構造式をシームレスに挿入する](https://qiita.com/Holy_/items/2689228f35d6cd10497b) <a href="https://qiita.com/Holy_/items/2689228f35d6cd10497b"><img src="https://img.shields.io/badge/Qiita-55C500?style=flat-square&logo=qiita&logoColor=white" alt="Qiita"></a> <sub>2026-02-11</sub>
+<!-- ARTICLES:END -->
+
+### 📡 Recent activities
 
 <!-- ACTIVITY:START -->
-- （直近の公開アクティビティはありません）
+- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `add some features` <sub>(1日前)</sub>
 
-<sub>最終更新: 2026-10-17 08:35 JST</sub>
+<sub>最終更新: 2026-10-18 04:34 JST</sub>
 <!-- ACTIVITY:END -->
 
+### ⚗️ Molecule of the Day
+
+<!-- MOLECULE:START -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule-dark.svg">
+  <img src="assets/molecule-light.svg" alt="N-(2,6-dimethylphenyl)-3-hydroxythieno[2,3-b]pyridine-2-carboxamide" width="360">
+</picture>
+<br>
+<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/139601050">N-(2,6-dimethylphenyl)-3-hydroxythieno[2,3-b]pyridine-2-carboxamide</a></b><br>
+C<sub>16</sub>H<sub>14</sub>N<sub>2</sub>O<sub>2</sub>S · 298.4 g/mol · CID 139601050<br>
+<sub>Randomly picked from PubChem on 2026-10-18</sub>
+</div>
+<!-- MOLECULE:END -->
+
 <!-- ===== 統計 ===== -->
-### Stats
+### 📊 Stats
 
 <div align="center">
 

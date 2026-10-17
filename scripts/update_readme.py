@@ -8,19 +8,19 @@ from __future__ import annotations
 import argparse
 import json
 import os
-import re
 import urllib.error
 import urllib.request
 from datetime import datetime, timedelta, timezone
 
+from readme_section import update_section
+
 JST = timezone(timedelta(hours=9))
-START = "<!-- ACTIVITY:START -->"
-END = "<!-- ACTIVITY:END -->"
 
 
-def fetch_events(user: str) -> list[dict]:
+def get_json(path: str, user: str):
+    """GitHub REST API の path を GET し、JSON を返す。失敗時は None。"""
     req = urllib.request.Request(
-        f"https://api.github.com/users/{user}/events/public?per_page=100",
+        f"https://api.github.com{path}",
         headers={
             "Accept": "application/vnd.github+json",
             "User-Agent": f"{user}-profile-updater",
@@ -33,8 +33,20 @@ def fetch_events(user: str) -> list[dict]:
         with urllib.request.urlopen(req, timeout=20) as r:
             return json.load(r)
     except (urllib.error.URLError, json.JSONDecodeError) as e:
-        print(f"warning: events API failed: {e}")
-        return []
+        print(f"warning: GET {path} failed: {e}")
+        return None
+
+
+def fetch_events(user: str) -> list[dict]:
+    return get_json(f"/users/{user}/events/public?per_page=100", user) or []
+
+
+def fetch_commit_message(repo: str, sha: str, user: str) -> str | None:
+    """PushEvent の payload は commits を含まないため、head の SHA からメッセージを取得する。"""
+    commit = get_json(f"/repos/{repo}/commits/{sha}", user)
+    if not commit:
+        return None
+    return commit["commit"]["message"].splitlines()[0][:72]
 
 
 def humanize(ts: str) -> str:
@@ -58,11 +70,11 @@ def build_section(user: str, events: list[dict], limit: int) -> str:
 
         kind = ev.get("type")
         if kind == "PushEvent":
-            commits = ev.get("payload", {}).get("commits", [])
-            if not commits:
-                continue
-            msg = commits[-1].get("message", "").splitlines()[0][:72]
-            what = f"`{msg}`"
+            payload = ev.get("payload", {})
+            msg = fetch_commit_message(repo, payload.get("head", ""), user)
+            # removeprefix: 先頭の "refs/heads/" を取り除いてブランチ名だけにする
+            branch = payload.get("ref", "").removeprefix("refs/heads/")
+            what = f"`{msg}`" if msg else f"`{branch}` に push"
         elif kind == "CreateEvent" and ev["payload"].get("ref_type") == "repository":
             what = "リポジトリを作成"
         elif kind == "ReleaseEvent":
@@ -94,26 +106,8 @@ def main() -> None:
     p.add_argument("--limit", type=int, default=5)
     args = p.parse_args()
 
-    with open(args.readme, encoding="utf-8") as f:
-        readme = f.read()
-
-    if START not in readme or END not in readme:
-        raise SystemExit(f"マーカー {START} / {END} が {args.readme} に見つかりません")
-
     section = build_section(args.user, fetch_events(args.user), args.limit)
-    new = re.sub(
-        re.escape(START) + r".*?" + re.escape(END),
-        START + "\n" + section + "\n" + END,
-        readme,
-        flags=re.DOTALL,
-    )
-
-    if new == readme:
-        print("変更なし")
-        return
-    with open(args.readme, "w", encoding="utf-8") as f:
-        f.write(new)
-    print("README.md を更新しました")
+    update_section(args.readme, "ACTIVITY", section)
 
 
 if __name__ == "__main__":
