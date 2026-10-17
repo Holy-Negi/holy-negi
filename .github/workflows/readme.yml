@@ -37,4 +37,4 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "chore: update README sections"
-          file_pattern: "README.md assets/molecule-*.svg"
+          file_pattern: "README.md assets/molecule/" # ディレクトリ指定なので前日の SVG の削除もコミットされる

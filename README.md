@@ -85,12 +85,12 @@
 <!-- MOLECULE:START -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule-dark.svg">
-  <img src="assets/molecule-light.svg" alt="6-fluoro-1-methyl-4-oxo-N-pyridin-4-ylcinnoline-3-carboxamide" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/172837422-dark.svg">
+  <img src="assets/molecule/172837422-light.svg" alt="1-[5-[2-(4-Chlorophenyl)ethyl]-1-methylpyrrol-2-yl]propan-2-one" width="360">
 </picture>
 <br>
-<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/52022145">6-fluoro-1-methyl-4-oxo-N-pyridin-4-ylcinnoline-3-carboxamide</a></b><br>
-C<sub>15</sub>H<sub>11</sub>FN<sub>4</sub>O<sub>2</sub> · 298.27 g/mol · CID 52022145<br>
+<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/172837422">1-[5-[2-(4-Chlorophenyl)ethyl]-1-methylpyrrol-2-yl]propan-2-one</a></b><br>
+C<sub>16</sub>H<sub>18</sub>ClNO · 275.77 g/mol · CID 172837422<br>
 <sub>Randomly picked from PubChem on 2026-10-18</sub>
 </div>
 <!-- MOLECULE:END -->

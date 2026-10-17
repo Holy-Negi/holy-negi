@@ -14,6 +14,7 @@ import re
 import urllib.error
 import urllib.request
 from datetime import datetime, timedelta, timezone
+from pathlib import Path
 
 from rdkit import Chem
 from rdkit.Chem import rdDepictor
@@ -106,19 +107,24 @@ def build_section(p: dict, light: str, dark: str) -> str:
 def main() -> None:
     p = argparse.ArgumentParser()
     p.add_argument("--readme", default="README.md")
-    p.add_argument("--light", default="assets/molecule-light.svg")
-    p.add_argument("--dark", default="assets/molecule-dark.svg")
+    p.add_argument("--outdir", type=Path, default=Path("assets/molecule"))
     args = p.parse_args()
 
     rdDepictor.SetPreferCoordGen(True)  # 環構造などをより自然な 2D 配置で描く
     compound, mol = pick_compound()
     print(f"CID {compound['CID']}: {compound['Title']}")
 
-    for theme, path in (("light", args.light), ("dark", args.dark)):
-        with open(path, "w", encoding="utf-8") as f:
-            f.write(render_svg(mol, theme))
+    # ファイル名に CID を含めて毎日 URL を変え、ブラウザに古い画像を使い回させない
+    args.outdir.mkdir(parents=True, exist_ok=True)
+    for old in args.outdir.glob("*.svg"):
+        old.unlink()
+    paths = {}
+    for theme in ("light", "dark"):
+        path = args.outdir / f"{compound['CID']}-{theme}.svg"
+        path.write_text(render_svg(mol, theme), encoding="utf-8")
+        paths[theme] = path.as_posix()  # README 用に区切り文字を / に統一する
 
-    update_section(args.readme, "MOLECULE", build_section(compound, args.light, args.dark))
+    update_section(args.readme, "MOLECULE", build_section(compound, paths["light"], paths["dark"]))
 
 
 if __name__ == "__main__":
