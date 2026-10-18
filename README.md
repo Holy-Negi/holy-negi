@@ -75,9 +75,11 @@
 ### 📡 Recent activities
 
 <!-- ACTIVITY:START -->
-- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `add some features` <sub>(1日前)</sub>
+- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(1日前)</sub>
+- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `fix layout` <sub>(1日前)</sub>
+- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some featres` <sub>(1日前)</sub>
 
-<sub>最終更新: 2026-10-18 08:11 JST</sub>
+<sub>最終更新: 2026-10-19 08:20 JST</sub>
 <!-- ACTIVITY:END -->
 
 ### ⚗️ Molecule of the Day
@@ -85,13 +87,13 @@
 <!-- MOLECULE:START -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/19336082-dark.svg">
-  <img src="assets/molecule/19336082-light.svg" alt="N-[1-[(2-chloro-4-fluorophenyl)methyl]pyrazol-4-yl]-3-[(2,5-dimethylphenoxy)methyl]benzamide" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/8255761-dark.svg">
+  <img src="assets/molecule/8255761-light.svg" alt="[2-(2,5-Dimethoxyphenyl)-2-oxoethyl] 5-bromopyridine-3-carboxylate" width="360">
 </picture>
 <br>
-<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/19336082">N-[1-[(2-chloro-4-fluorophenyl)methyl]pyrazol-4-yl]-3-[(2,5-dimethylphenoxy)methyl]benzamide</a></b><br>
-C<sub>26</sub>H<sub>23</sub>ClFN<sub>3</sub>O<sub>2</sub> · 463.9 g/mol · CID 19336082<br>
-<sub>Randomly picked from PubChem on 2026-10-18</sub>
+<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/8255761">[2-(2,5-Dimethoxyphenyl)-2-oxoethyl] 5-bromopyridine-3-carboxylate</a></b><br>
+C<sub>16</sub>H<sub>14</sub>BrNO<sub>5</sub> · 380.19 g/mol · CID 8255761<br>
+<sub>Randomly picked from PubChem on 2026-10-19</sub>
 </div>
 <!-- MOLECULE:END -->
 
