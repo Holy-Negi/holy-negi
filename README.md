@@ -75,11 +75,11 @@
 ### 📡 Recent activities
 
 <!-- ACTIVITY:START -->
-- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(2日前)</sub>
-- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(2日前)</sub>
-- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(2日前)</sub>
+- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(3日前)</sub>
+- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(3日前)</sub>
+- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(3日前)</sub>
 
-<sub>最終更新: 2026-10-20 09:25 JST</sub>
+<sub>最終更新: 2026-10-21 08:57 JST</sub>
 <!-- ACTIVITY:END -->
 
 ### ⚗️ Molecule of the Day
@@ -87,13 +87,13 @@
 <!-- MOLECULE:START -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/107559401-dark.svg">
-  <img src="assets/molecule/107559401-light.svg" alt="N-methyl-1-[5-[(1-methyl-1,2,4-triazol-3-yl)oxymethyl]thiophen-2-yl]methanamine" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/96519344-dark.svg">
+  <img src="assets/molecule/96519344-light.svg" alt="(2S)-2-[(2R)-1-(3-bromo-5-fluorobenzoyl)pyrrolidin-2-yl]-2-phenylacetonitrile" width="360">
 </picture>
 <br>
-<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/107559401">N-methyl-1-[5-[(1-methyl-1,2,4-triazol-3-yl)oxymethyl]thiophen-2-yl]methanamine</a></b><br>
-C<sub>10</sub>H<sub>14</sub>N<sub>4</sub>OS · 238.31 g/mol · CID 107559401<br>
-<sub>Randomly picked from PubChem on 2026-10-20</sub>
+<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/96519344">(2S)-2-[(2R)-1-(3-bromo-5-fluorobenzoyl)pyrrolidin-2-yl]-2-phenylacetonitrile</a></b><br>
+C<sub>19</sub>H<sub>16</sub>BrFN<sub>2</sub>O · 387.2 g/mol · CID 96519344<br>
+<sub>Randomly picked from PubChem on 2026-10-21</sub>
 </div>
 <!-- MOLECULE:END -->
 
