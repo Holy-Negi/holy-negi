@@ -75,11 +75,11 @@
 ### 📡 Recent activities
 
 <!-- ACTIVITY:START -->
-- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(1日前)</sub>
-- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `fix layout` <sub>(1日前)</sub>
-- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some featres` <sub>(1日前)</sub>
+- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(2日前)</sub>
+- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(2日前)</sub>
+- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(2日前)</sub>
 
-<sub>最終更新: 2026-10-19 08:20 JST</sub>
+<sub>最終更新: 2026-10-20 09:25 JST</sub>
 <!-- ACTIVITY:END -->
 
 ### ⚗️ Molecule of the Day
@@ -87,13 +87,13 @@
 <!-- MOLECULE:START -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/8255761-dark.svg">
-  <img src="assets/molecule/8255761-light.svg" alt="[2-(2,5-Dimethoxyphenyl)-2-oxoethyl] 5-bromopyridine-3-carboxylate" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/107559401-dark.svg">
+  <img src="assets/molecule/107559401-light.svg" alt="N-methyl-1-[5-[(1-methyl-1,2,4-triazol-3-yl)oxymethyl]thiophen-2-yl]methanamine" width="360">
 </picture>
 <br>
-<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/8255761">[2-(2,5-Dimethoxyphenyl)-2-oxoethyl] 5-bromopyridine-3-carboxylate</a></b><br>
-C<sub>16</sub>H<sub>14</sub>BrNO<sub>5</sub> · 380.19 g/mol · CID 8255761<br>
-<sub>Randomly picked from PubChem on 2026-10-19</sub>
+<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/107559401">N-methyl-1-[5-[(1-methyl-1,2,4-triazol-3-yl)oxymethyl]thiophen-2-yl]methanamine</a></b><br>
+C<sub>10</sub>H<sub>14</sub>N<sub>4</sub>OS · 238.31 g/mol · CID 107559401<br>
+<sub>Randomly picked from PubChem on 2026-10-20</sub>
 </div>
 <!-- MOLECULE:END -->
 
