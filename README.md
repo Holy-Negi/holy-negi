@@ -75,11 +75,11 @@
 ### 📡 Recent activities
 
 <!-- ACTIVITY:START -->
-- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(4日前)</sub>
-- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(4日前)</sub>
-- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(4日前)</sub>
+- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(5日前)</sub>
+- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(5日前)</sub>
+- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(5日前)</sub>
 
-<sub>最終更新: 2026-10-22 09:02 JST</sub>
+<sub>最終更新: 2026-10-23 09:00 JST</sub>
 <!-- ACTIVITY:END -->
 
 ### ⚗️ Molecule of the Day
@@ -87,13 +87,13 @@
 <!-- MOLECULE:START -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/8325342-dark.svg">
-  <img src="assets/molecule/8325342-light.svg" alt="2-[4-(5-Chloro-2-methylphenyl)piperazine-1-carbonyl]-6-methylchromen-4-one" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/121741723-dark.svg">
+  <img src="assets/molecule/121741723-light.svg" alt="2-amino-N-[3-(benzylsulfanylmethyl)phenyl]-3-methoxypropanamide" width="360">
 </picture>
 <br>
-<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/8325342">2-[4-(5-Chloro-2-methylphenyl)piperazine-1-carbonyl]-6-methylchromen-4-one</a></b><br>
-C<sub>22</sub>H<sub>21</sub>ClN<sub>2</sub>O<sub>3</sub> · 396.9 g/mol · CID 8325342<br>
-<sub>Randomly picked from PubChem on 2026-10-22</sub>
+<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/121741723">2-amino-N-[3-(benzylsulfanylmethyl)phenyl]-3-methoxypropanamide</a></b><br>
+C<sub>18</sub>H<sub>22</sub>N<sub>2</sub>O<sub>2</sub>S · 330.4 g/mol · CID 121741723<br>
+<sub>Randomly picked from PubChem on 2026-10-23</sub>
 </div>
 <!-- MOLECULE:END -->
 
