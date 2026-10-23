@@ -75,11 +75,11 @@
 ### 📡 Recent activities
 
 <!-- ACTIVITY:START -->
-- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(5日前)</sub>
-- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(5日前)</sub>
-- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(5日前)</sub>
+- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(6日前)</sub>
+- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(6日前)</sub>
+- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(6日前)</sub>
 
-<sub>最終更新: 2026-10-23 09:00 JST</sub>
+<sub>最終更新: 2026-10-24 08:52 JST</sub>
 <!-- ACTIVITY:END -->
 
 ### ⚗️ Molecule of the Day
@@ -87,13 +87,13 @@
 <!-- MOLECULE:START -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/121741723-dark.svg">
-  <img src="assets/molecule/121741723-light.svg" alt="2-amino-N-[3-(benzylsulfanylmethyl)phenyl]-3-methoxypropanamide" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/24987158-dark.svg">
+  <img src="assets/molecule/24987158-light.svg" alt="[1-[4-(1-Cyclopentylpiperidin-4-yl)oxy-3-fluorophenyl]pyrazol-4-yl]-pyrrolidin-1-ylmethanone" width="360">
 </picture>
 <br>
-<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/121741723">2-amino-N-[3-(benzylsulfanylmethyl)phenyl]-3-methoxypropanamide</a></b><br>
-C<sub>18</sub>H<sub>22</sub>N<sub>2</sub>O<sub>2</sub>S · 330.4 g/mol · CID 121741723<br>
-<sub>Randomly picked from PubChem on 2026-10-23</sub>
+<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/24987158">[1-[4-(1-Cyclopentylpiperidin-4-yl)oxy-3-fluorophenyl]pyrazol-4-yl]-pyrrolidin-1-ylmethanone</a></b><br>
+C<sub>24</sub>H<sub>31</sub>FN<sub>4</sub>O<sub>2</sub> · 426.5 g/mol · CID 24987158<br>
+<sub>Randomly picked from PubChem on 2026-10-24</sub>
 </div>
 <!-- MOLECULE:END -->
 
