@@ -24,7 +24,7 @@
 <table>
   <tr>
     <td><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=py,html,css,js,cpp" alt="Python, HTML, CSS, JavaScript, C++"></td>
+    <td><img src="https://skillicons.dev/icons?i=py,html,css,js" alt="Python, HTML, CSS, JavaScript"></td>
   </tr>
   <tr>
     <td><b>Frameworks & DB</b></td>
