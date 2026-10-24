@@ -75,11 +75,12 @@
 ### 📡 Recent activities
 
 <!-- ACTIVITY:START -->
-- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(6日前)</sub>
-- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(6日前)</sub>
-- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(6日前)</sub>
+- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Codespaces の環境定義（.devcontainer）と .gitignore を追加` <sub>(7時間前)</sub>
+- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(7日前)</sub>
+- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(7日前)</sub>
+- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(7日前)</sub>
 
-<sub>最終更新: 2026-10-24 08:52 JST</sub>
+<sub>最終更新: 2026-10-25 08:21 JST</sub>
 <!-- ACTIVITY:END -->
 
 ### ⚗️ Molecule of the Day
@@ -87,13 +88,13 @@
 <!-- MOLECULE:START -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/24987158-dark.svg">
-  <img src="assets/molecule/24987158-light.svg" alt="[1-[4-(1-Cyclopentylpiperidin-4-yl)oxy-3-fluorophenyl]pyrazol-4-yl]-pyrrolidin-1-ylmethanone" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/110106534-dark.svg">
+  <img src="assets/molecule/110106534-light.svg" alt="2-Methyl-4-{3-[(4-methyl-2H-pyrazol-3-YL)methyl]piperidin-1-YL}pyrimidine" width="360">
 </picture>
 <br>
-<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/24987158">[1-[4-(1-Cyclopentylpiperidin-4-yl)oxy-3-fluorophenyl]pyrazol-4-yl]-pyrrolidin-1-ylmethanone</a></b><br>
-C<sub>24</sub>H<sub>31</sub>FN<sub>4</sub>O<sub>2</sub> · 426.5 g/mol · CID 24987158<br>
-<sub>Randomly picked from PubChem on 2026-10-24</sub>
+<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/110106534">2-Methyl-4-{3-[(4-methyl-2H-pyrazol-3-YL)methyl]piperidin-1-YL}pyrimidine</a></b><br>
+C<sub>15</sub>H<sub>21</sub>N<sub>5</sub> · 271.36 g/mol · CID 110106534<br>
+<sub>Randomly picked from PubChem on 2026-10-25</sub>
 </div>
 <!-- MOLECULE:END -->
 
