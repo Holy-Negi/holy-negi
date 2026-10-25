@@ -75,12 +75,12 @@
 ### 📡 Recent activities
 
 <!-- ACTIVITY:START -->
-- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Codespaces の環境定義（.devcontainer）と .gitignore を追加` <sub>(7時間前)</sub>
-- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(7日前)</sub>
-- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(7日前)</sub>
-- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(7日前)</sub>
+- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Codespaces の環境定義（.devcontainer）と .gitignore を追加` <sub>(1日前)</sub>
+- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(8日前)</sub>
+- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(8日前)</sub>
+- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(8日前)</sub>
 
-<sub>最終更新: 2026-10-25 08:21 JST</sub>
+<sub>最終更新: 2026-10-26 08:20 JST</sub>
 <!-- ACTIVITY:END -->
 
 ### ⚗️ Molecule of the Day
@@ -88,13 +88,13 @@
 <!-- MOLECULE:START -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/110106534-dark.svg">
-  <img src="assets/molecule/110106534-light.svg" alt="2-Methyl-4-{3-[(4-methyl-2H-pyrazol-3-YL)methyl]piperidin-1-YL}pyrimidine" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/47141614-dark.svg">
+  <img src="assets/molecule/47141614-light.svg" alt="4-[(1-methyl-3,4-dihydro-1H-pyrrolo[1,2-a]pyrazin-2-yl)sulfonyl]morpholine" width="360">
 </picture>
 <br>
-<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/110106534">2-Methyl-4-{3-[(4-methyl-2H-pyrazol-3-YL)methyl]piperidin-1-YL}pyrimidine</a></b><br>
-C<sub>15</sub>H<sub>21</sub>N<sub>5</sub> · 271.36 g/mol · CID 110106534<br>
-<sub>Randomly picked from PubChem on 2026-10-25</sub>
+<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/47141614">4-[(1-methyl-3,4-dihydro-1H-pyrrolo[1,2-a]pyrazin-2-yl)sulfonyl]morpholine</a></b><br>
+C<sub>12</sub>H<sub>19</sub>N<sub>3</sub>O<sub>3</sub>S · 285.36 g/mol · CID 47141614<br>
+<sub>Randomly picked from PubChem on 2026-10-26</sub>
 </div>
 <!-- MOLECULE:END -->
 
