@@ -75,12 +75,12 @@
 ### 📡 Recent activities
 
 <!-- ACTIVITY:START -->
-- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Codespaces の環境定義（.devcontainer）と .gitignore を追加` <sub>(2日前)</sub>
-- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(9日前)</sub>
-- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(9日前)</sub>
-- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(9日前)</sub>
+- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Codespaces の環境定義（.devcontainer）と .gitignore を追加` <sub>(3日前)</sub>
+- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(10日前)</sub>
+- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(10日前)</sub>
+- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(10日前)</sub>
 
-<sub>最終更新: 2026-10-27 09:32 JST</sub>
+<sub>最終更新: 2026-10-28 09:33 JST</sub>
 <!-- ACTIVITY:END -->
 
 ### ⚗️ Molecule of the Day
@@ -88,13 +88,13 @@
 <!-- MOLECULE:START -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/12006870-dark.svg">
-  <img src="assets/molecule/12006870-light.svg" alt="2-(4-Methylphenyl)-5-phenylsulfanyl-4-(4-phenyl-1,3-thiazol-2-yl)-1,3-oxazole" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/27727440-dark.svg">
+  <img src="assets/molecule/27727440-light.svg" alt="[2-[1-(4-Ethoxyphenyl)-2,5-dimethylpyrrol-3-yl]-2-oxoethyl] 2-(3,5-dimethylpyrazol-1-yl)acetate" width="360">
 </picture>
 <br>
-<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/12006870">2-(4-Methylphenyl)-5-phenylsulfanyl-4-(4-phenyl-1,3-thiazol-2-yl)-1,3-oxazole</a></b><br>
-C<sub>25</sub>H<sub>18</sub>N<sub>2</sub>OS<sub>2</sub> · 426.6 g/mol · CID 12006870<br>
-<sub>Randomly picked from PubChem on 2026-10-27</sub>
+<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/27727440">[2-[1-(4-Ethoxyphenyl)-2,5-dimethylpyrrol-3-yl]-2-oxoethyl] 2-(3,5-dimethylpyrazol-1-yl)acetate</a></b><br>
+C<sub>23</sub>H<sub>27</sub>N<sub>3</sub>O<sub>4</sub> · 409.5 g/mol · CID 27727440<br>
+<sub>Randomly picked from PubChem on 2026-10-28</sub>
 </div>
 <!-- MOLECULE:END -->
 
