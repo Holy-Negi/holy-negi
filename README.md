@@ -75,12 +75,12 @@
 ### 📡 Recent activities
 
 <!-- ACTIVITY:START -->
-- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Codespaces の環境定義（.devcontainer）と .gitignore を追加` <sub>(4日前)</sub>
-- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(11日前)</sub>
-- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(11日前)</sub>
-- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(11日前)</sub>
+- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Codespaces の環境定義（.devcontainer）と .gitignore を追加` <sub>(5日前)</sub>
+- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(12日前)</sub>
+- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(12日前)</sub>
+- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(12日前)</sub>
 
-<sub>最終更新: 2026-10-29 10:02 JST</sub>
+<sub>最終更新: 2026-10-30 10:07 JST</sub>
 <!-- ACTIVITY:END -->
 
 ### ⚗️ Molecule of the Day
@@ -88,13 +88,13 @@
 <!-- MOLECULE:START -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/79655263-dark.svg">
-  <img src="assets/molecule/79655263-light.svg" alt="1-(Ethylamino)-3-(2-ethylmorpholin-4-yl)cyclopentane-1-carboxamide" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/69641002-dark.svg">
+  <img src="assets/molecule/69641002-light.svg" alt="8-[(3,5-Dichlorophenyl)methoxy]quinoline" width="360">
 </picture>
 <br>
-<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/79655263">1-(Ethylamino)-3-(2-ethylmorpholin-4-yl)cyclopentane-1-carboxamide</a></b><br>
-C<sub>14</sub>H<sub>27</sub>N<sub>3</sub>O<sub>2</sub> · 269.38 g/mol · CID 79655263<br>
-<sub>Randomly picked from PubChem on 2026-10-29</sub>
+<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/69641002">8-[(3,5-Dichlorophenyl)methoxy]quinoline</a></b><br>
+C<sub>16</sub>H<sub>11</sub>Cl<sub>2</sub>NO · 304.2 g/mol · CID 69641002<br>
+<sub>Randomly picked from PubChem on 2026-10-30</sub>
 </div>
 <!-- MOLECULE:END -->
 
