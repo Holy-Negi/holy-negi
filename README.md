@@ -75,12 +75,12 @@
 ### 📡 Recent activities
 
 <!-- ACTIVITY:START -->
-- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Codespaces の環境定義（.devcontainer）と .gitignore を追加` <sub>(6日前)</sub>
-- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(13日前)</sub>
-- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(13日前)</sub>
-- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(13日前)</sub>
+- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Codespaces の環境定義（.devcontainer）と .gitignore を追加` <sub>(7日前)</sub>
+- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(14日前)</sub>
+- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(14日前)</sub>
+- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(14日前)</sub>
 
-<sub>最終更新: 2026-10-31 09:51 JST</sub>
+<sub>最終更新: 2026-11-01 09:11 JST</sub>
 <!-- ACTIVITY:END -->
 
 ### ⚗️ Molecule of the Day
@@ -88,13 +88,13 @@
 <!-- MOLECULE:START -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/19507126-dark.svg">
-  <img src="assets/molecule/19507126-light.svg" alt="N-[3-(4-chloro-3-methylphenoxy)-5-nitrophenyl]-2-[(2-chlorophenoxy)methyl]pyrazole-3-carboxamide" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/50742435-dark.svg">
+  <img src="assets/molecule/50742435-light.svg" alt="tert-Butyl (1-(2-chloropyrimidin-4-yl)piperidin-4-yl)carbamate" width="360">
 </picture>
 <br>
-<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/19507126">N-[3-(4-chloro-3-methylphenoxy)-5-nitrophenyl]-2-[(2-chlorophenoxy)methyl]pyrazole-3-carboxamide</a></b><br>
-C<sub>24</sub>H<sub>18</sub>Cl<sub>2</sub>N<sub>4</sub>O<sub>5</sub> · 513.3 g/mol · CID 19507126<br>
-<sub>Randomly picked from PubChem on 2026-10-31</sub>
+<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/50742435">tert-Butyl (1-(2-chloropyrimidin-4-yl)piperidin-4-yl)carbamate</a></b><br>
+C<sub>14</sub>H<sub>21</sub>ClN<sub>4</sub>O<sub>2</sub> · 312.79 g/mol · CID 50742435<br>
+<sub>Randomly picked from PubChem on 2026-11-01</sub>
 </div>
 <!-- MOLECULE:END -->
 
