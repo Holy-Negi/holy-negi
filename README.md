@@ -75,12 +75,12 @@
 ### 📡 Recent activities
 
 <!-- ACTIVITY:START -->
-- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Codespaces の環境定義（.devcontainer）と .gitignore を追加` <sub>(7日前)</sub>
-- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(14日前)</sub>
-- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(14日前)</sub>
-- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(14日前)</sub>
+- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Codespaces の環境定義（.devcontainer）と .gitignore を追加` <sub>(8日前)</sub>
+- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(15日前)</sub>
+- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(15日前)</sub>
+- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(15日前)</sub>
 
-<sub>最終更新: 2026-11-01 09:11 JST</sub>
+<sub>最終更新: 2026-11-02 09:50 JST</sub>
 <!-- ACTIVITY:END -->
 
 ### ⚗️ Molecule of the Day
@@ -88,13 +88,13 @@
 <!-- MOLECULE:START -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/50742435-dark.svg">
-  <img src="assets/molecule/50742435-light.svg" alt="tert-Butyl (1-(2-chloropyrimidin-4-yl)piperidin-4-yl)carbamate" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/16663476-dark.svg">
+  <img src="assets/molecule/16663476-light.svg" alt="1-[Bis(2,3,5,6-tetrachloro-4-nitrophenyl)methyl]-2,3,5,6-tetrachloro-4-nitrobenzene" width="360">
 </picture>
 <br>
-<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/50742435">tert-Butyl (1-(2-chloropyrimidin-4-yl)piperidin-4-yl)carbamate</a></b><br>
-C<sub>14</sub>H<sub>21</sub>ClN<sub>4</sub>O<sub>2</sub> · 312.79 g/mol · CID 50742435<br>
-<sub>Randomly picked from PubChem on 2026-11-01</sub>
+<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/16663476">1-[Bis(2,3,5,6-tetrachloro-4-nitrophenyl)methyl]-2,3,5,6-tetrachloro-4-nitrobenzene</a></b><br>
+C<sub>19</sub>HCl<sub>12</sub>N<sub>3</sub>O<sub>6</sub> · 792.6 g/mol · CID 16663476<br>
+<sub>Randomly picked from PubChem on 2026-11-02</sub>
 </div>
 <!-- MOLECULE:END -->
 
