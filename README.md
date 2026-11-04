@@ -75,12 +75,12 @@
 ### 📡 Recent activities
 
 <!-- ACTIVITY:START -->
-- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — PR #2 を作成 <sub>(19時間前)</sub>
-- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(16日前)</sub>
-- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(16日前)</sub>
-- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(16日前)</sub>
+- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Merge pull request #2 from Holy-Negi/lec02` <sub>(1日前)</sub>
+- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(17日前)</sub>
+- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(17日前)</sub>
+- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(17日前)</sub>
 
-<sub>最終更新: 2026-11-03 11:56 JST</sub>
+<sub>最終更新: 2026-11-04 10:28 JST</sub>
 <!-- ACTIVITY:END -->
 
 ### ⚗️ Molecule of the Day
@@ -88,13 +88,13 @@
 <!-- MOLECULE:START -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/97156739-dark.svg">
-  <img src="assets/molecule/97156739-light.svg" alt="(5S)-1-(3-chlorophenyl)-5-methyl-4-(2-propyl-1,3-thiazole-4-carbonyl)piperazin-2-one" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/171993624-dark.svg">
+  <img src="assets/molecule/171993624-light.svg" alt="1-methyl-N-{1-[(5-methyl-1,2-oxazol-3-yl)methyl]piperidin-4-yl}-1H-pyrazole-3-carboxamide" width="360">
 </picture>
 <br>
-<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/97156739">(5S)-1-(3-chlorophenyl)-5-methyl-4-(2-propyl-1,3-thiazole-4-carbonyl)piperazin-2-one</a></b><br>
-C<sub>18</sub>H<sub>20</sub>ClN<sub>3</sub>O<sub>2</sub>S · 377.9 g/mol · CID 97156739<br>
-<sub>Randomly picked from PubChem on 2026-11-03</sub>
+<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/171993624">1-methyl-N-{1-[(5-methyl-1,2-oxazol-3-yl)methyl]piperidin-4-yl}-1H-pyrazole-3-carboxamide</a></b><br>
+C<sub>15</sub>H<sub>21</sub>N<sub>5</sub>O<sub>2</sub> · 303.36 g/mol · CID 171993624<br>
+<sub>Randomly picked from PubChem on 2026-11-04</sub>
 </div>
 <!-- MOLECULE:END -->
 
