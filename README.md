@@ -75,12 +75,12 @@
 ### 📡 Recent activities
 
 <!-- ACTIVITY:START -->
-- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Merge pull request #2 from Holy-Negi/lec02` <sub>(3日前)</sub>
-- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(19日前)</sub>
-- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(19日前)</sub>
-- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(19日前)</sub>
+- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Merge pull request #2 from Holy-Negi/lec02` <sub>(4日前)</sub>
+- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(20日前)</sub>
+- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(20日前)</sub>
+- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(20日前)</sub>
 
-<sub>最終更新: 2026-11-06 10:36 JST</sub>
+<sub>最終更新: 2026-11-07 09:58 JST</sub>
 <!-- ACTIVITY:END -->
 
 ### ⚗️ Molecule of the Day
@@ -88,13 +88,13 @@
 <!-- MOLECULE:START -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/65613144-dark.svg">
-  <img src="assets/molecule/65613144-light.svg" alt="1-[3-Bromo-4-[(2-methyl-1,2,4-triazol-3-yl)methoxy]phenyl]propan-2-amine" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/172742558-dark.svg">
+  <img src="assets/molecule/172742558-light.svg" alt="2-[5-(2-chlorophenyl)furan-2-yl]-N-(6-isocyanohexyl)-5-methylimidazo[1,2-a]pyridin-3-amine" width="360">
 </picture>
 <br>
-<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/65613144">1-[3-Bromo-4-[(2-methyl-1,2,4-triazol-3-yl)methoxy]phenyl]propan-2-amine</a></b><br>
-C<sub>13</sub>H<sub>17</sub>BrN<sub>4</sub>O · 325.20 g/mol · CID 65613144<br>
-<sub>Randomly picked from PubChem on 2026-11-06</sub>
+<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/172742558">2-[5-(2-chlorophenyl)furan-2-yl]-N-(6-isocyanohexyl)-5-methylimidazo[1,2-a]pyridin-3-amine</a></b><br>
+C<sub>25</sub>H<sub>25</sub>ClN<sub>4</sub>O · 432.9 g/mol · CID 172742558<br>
+<sub>Randomly picked from PubChem on 2026-11-07</sub>
 </div>
 <!-- MOLECULE:END -->
 
