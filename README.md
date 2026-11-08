@@ -75,12 +75,12 @@
 ### 📡 Recent activities
 
 <!-- ACTIVITY:START -->
-- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Merge pull request #2 from Holy-Negi/lec02` <sub>(4日前)</sub>
-- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(20日前)</sub>
-- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(20日前)</sub>
-- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(20日前)</sub>
+- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Merge pull request #2 from Holy-Negi/lec02` <sub>(5日前)</sub>
+- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(21日前)</sub>
+- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(21日前)</sub>
+- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(21日前)</sub>
 
-<sub>最終更新: 2026-11-07 09:58 JST</sub>
+<sub>最終更新: 2026-11-08 09:44 JST</sub>
 <!-- ACTIVITY:END -->
 
 ### ⚗️ Molecule of the Day
@@ -88,13 +88,13 @@
 <!-- MOLECULE:START -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/172742558-dark.svg">
-  <img src="assets/molecule/172742558-light.svg" alt="2-[5-(2-chlorophenyl)furan-2-yl]-N-(6-isocyanohexyl)-5-methylimidazo[1,2-a]pyridin-3-amine" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/103764787-dark.svg">
+  <img src="assets/molecule/103764787-light.svg" alt="N&#x27;-ethyl-N-(6-methyl-5-nitro-2-pyridinyl)-N&#x27;-propylethane-1,2-diamine" width="360">
 </picture>
 <br>
-<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/172742558">2-[5-(2-chlorophenyl)furan-2-yl]-N-(6-isocyanohexyl)-5-methylimidazo[1,2-a]pyridin-3-amine</a></b><br>
-C<sub>25</sub>H<sub>25</sub>ClN<sub>4</sub>O · 432.9 g/mol · CID 172742558<br>
-<sub>Randomly picked from PubChem on 2026-11-07</sub>
+<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/103764787">N&#x27;-ethyl-N-(6-methyl-5-nitro-2-pyridinyl)-N&#x27;-propylethane-1,2-diamine</a></b><br>
+C<sub>13</sub>H<sub>22</sub>N<sub>4</sub>O<sub>2</sub> · 266.34 g/mol · CID 103764787<br>
+<sub>Randomly picked from PubChem on 2026-11-08</sub>
 </div>
 <!-- MOLECULE:END -->
 
