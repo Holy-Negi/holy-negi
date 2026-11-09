@@ -75,12 +75,12 @@
 ### 📡 Recent activities
 
 <!-- ACTIVITY:START -->
-- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Merge pull request #2 from Holy-Negi/lec02` <sub>(5日前)</sub>
-- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(21日前)</sub>
-- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(21日前)</sub>
-- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(21日前)</sub>
+- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Merge pull request #2 from Holy-Negi/lec02` <sub>(6日前)</sub>
+- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(22日前)</sub>
+- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(22日前)</sub>
+- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(22日前)</sub>
 
-<sub>最終更新: 2026-11-08 09:44 JST</sub>
+<sub>最終更新: 2026-11-09 09:58 JST</sub>
 <!-- ACTIVITY:END -->
 
 ### ⚗️ Molecule of the Day
@@ -88,13 +88,13 @@
 <!-- MOLECULE:START -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/103764787-dark.svg">
-  <img src="assets/molecule/103764787-light.svg" alt="N&#x27;-ethyl-N-(6-methyl-5-nitro-2-pyridinyl)-N&#x27;-propylethane-1,2-diamine" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/19664410-dark.svg">
+  <img src="assets/molecule/19664410-light.svg" alt="[2,6-diiodo-4-[(Z)-[2-(4-methylphenyl)-5-oxo-1,3-oxazol-4-ylidene]methyl]phenyl] acetate" width="360">
 </picture>
 <br>
-<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/103764787">N&#x27;-ethyl-N-(6-methyl-5-nitro-2-pyridinyl)-N&#x27;-propylethane-1,2-diamine</a></b><br>
-C<sub>13</sub>H<sub>22</sub>N<sub>4</sub>O<sub>2</sub> · 266.34 g/mol · CID 103764787<br>
-<sub>Randomly picked from PubChem on 2026-11-08</sub>
+<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/19664410">[2,6-diiodo-4-[(Z)-[2-(4-methylphenyl)-5-oxo-1,3-oxazol-4-ylidene]methyl]phenyl] acetate</a></b><br>
+C<sub>19</sub>H<sub>13</sub>I<sub>2</sub>NO<sub>4</sub> · 573.1 g/mol · CID 19664410<br>
+<sub>Randomly picked from PubChem on 2026-11-09</sub>
 </div>
 <!-- MOLECULE:END -->
 
