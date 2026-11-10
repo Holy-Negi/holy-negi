@@ -75,12 +75,12 @@
 ### 📡 Recent activities
 
 <!-- ACTIVITY:START -->
-- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Merge pull request #2 from Holy-Negi/lec02` <sub>(6日前)</sub>
-- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(22日前)</sub>
-- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(22日前)</sub>
-- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(22日前)</sub>
+- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Merge pull request #2 from Holy-Negi/lec02` <sub>(7日前)</sub>
+- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(23日前)</sub>
+- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(23日前)</sub>
+- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(23日前)</sub>
 
-<sub>最終更新: 2026-11-09 09:58 JST</sub>
+<sub>最終更新: 2026-11-10 12:37 JST</sub>
 <!-- ACTIVITY:END -->
 
 ### ⚗️ Molecule of the Day
@@ -88,13 +88,13 @@
 <!-- MOLECULE:START -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/19664410-dark.svg">
-  <img src="assets/molecule/19664410-light.svg" alt="[2,6-diiodo-4-[(Z)-[2-(4-methylphenyl)-5-oxo-1,3-oxazol-4-ylidene]methyl]phenyl] acetate" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/141430031-dark.svg">
+  <img src="assets/molecule/141430031-light.svg" alt="1-[1-(cyclopropylmethyl)-2H-pyridin-6-yl]-4-(1-ethylpiperidin-4-yl)-1,4-diazepane" width="360">
 </picture>
 <br>
-<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/19664410">[2,6-diiodo-4-[(Z)-[2-(4-methylphenyl)-5-oxo-1,3-oxazol-4-ylidene]methyl]phenyl] acetate</a></b><br>
-C<sub>19</sub>H<sub>13</sub>I<sub>2</sub>NO<sub>4</sub> · 573.1 g/mol · CID 19664410<br>
-<sub>Randomly picked from PubChem on 2026-11-09</sub>
+<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/141430031">1-[1-(cyclopropylmethyl)-2H-pyridin-6-yl]-4-(1-ethylpiperidin-4-yl)-1,4-diazepane</a></b><br>
+C<sub>21</sub>H<sub>36</sub>N<sub>4</sub> · 344.5 g/mol · CID 141430031<br>
+<sub>Randomly picked from PubChem on 2026-11-10</sub>
 </div>
 <!-- MOLECULE:END -->
 
