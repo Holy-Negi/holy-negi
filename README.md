@@ -75,12 +75,12 @@
 ### 📡 Recent activities
 
 <!-- ACTIVITY:START -->
-- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Merge pull request #2 from Holy-Negi/lec02` <sub>(7日前)</sub>
-- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(23日前)</sub>
-- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(23日前)</sub>
-- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(23日前)</sub>
+- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Merge pull request #2 from Holy-Negi/lec02` <sub>(8日前)</sub>
+- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(24日前)</sub>
+- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(24日前)</sub>
+- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(24日前)</sub>
 
-<sub>最終更新: 2026-11-10 12:37 JST</sub>
+<sub>最終更新: 2026-11-11 10:17 JST</sub>
 <!-- ACTIVITY:END -->
 
 ### ⚗️ Molecule of the Day
@@ -88,13 +88,13 @@
 <!-- MOLECULE:START -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/141430031-dark.svg">
-  <img src="assets/molecule/141430031-light.svg" alt="1-[1-(cyclopropylmethyl)-2H-pyridin-6-yl]-4-(1-ethylpiperidin-4-yl)-1,4-diazepane" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/43926006-dark.svg">
+  <img src="assets/molecule/43926006-light.svg" alt="[1-[(3,4-Dichlorophenyl)methyl]piperidin-3-yl]-[4-(2,3-dimethylphenyl)piperazin-1-yl]methanone" width="360">
 </picture>
 <br>
-<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/141430031">1-[1-(cyclopropylmethyl)-2H-pyridin-6-yl]-4-(1-ethylpiperidin-4-yl)-1,4-diazepane</a></b><br>
-C<sub>21</sub>H<sub>36</sub>N<sub>4</sub> · 344.5 g/mol · CID 141430031<br>
-<sub>Randomly picked from PubChem on 2026-11-10</sub>
+<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/43926006">[1-[(3,4-Dichlorophenyl)methyl]piperidin-3-yl]-[4-(2,3-dimethylphenyl)piperazin-1-yl]methanone</a></b><br>
+C<sub>25</sub>H<sub>31</sub>Cl<sub>2</sub>N<sub>3</sub>O · 460.4 g/mol · CID 43926006<br>
+<sub>Randomly picked from PubChem on 2026-11-11</sub>
 </div>
 <!-- MOLECULE:END -->
 
