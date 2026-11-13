@@ -75,12 +75,12 @@
 ### 📡 Recent activities
 
 <!-- ACTIVITY:START -->
-- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Merge pull request #2 from Holy-Negi/lec02` <sub>(9日前)</sub>
-- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(25日前)</sub>
-- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(25日前)</sub>
-- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(25日前)</sub>
+- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Merge pull request #2 from Holy-Negi/lec02` <sub>(10日前)</sub>
+- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(26日前)</sub>
+- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(26日前)</sub>
+- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(26日前)</sub>
 
-<sub>最終更新: 2026-11-12 11:18 JST</sub>
+<sub>最終更新: 2026-11-13 10:54 JST</sub>
 <!-- ACTIVITY:END -->
 
 ### ⚗️ Molecule of the Day
@@ -88,13 +88,13 @@
 <!-- MOLECULE:START -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/107086382-dark.svg">
-  <img src="assets/molecule/107086382-light.svg" alt="5-(Bromomethyl)-2-(2,3-dichlorophenoxy)pyrimidine" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/99131523-dark.svg">
+  <img src="assets/molecule/99131523-light.svg" alt="(2S)-N-(2,4-dimethylphenyl)-2-(2-ethylphenoxy)propanamide" width="360">
 </picture>
 <br>
-<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/107086382">5-(Bromomethyl)-2-(2,3-dichlorophenoxy)pyrimidine</a></b><br>
-C<sub>11</sub>H<sub>7</sub>BrCl<sub>2</sub>N<sub>2</sub>O · 333.99 g/mol · CID 107086382<br>
-<sub>Randomly picked from PubChem on 2026-11-12</sub>
+<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/99131523">(2S)-N-(2,4-dimethylphenyl)-2-(2-ethylphenoxy)propanamide</a></b><br>
+C<sub>19</sub>H<sub>23</sub>NO<sub>2</sub> · 297.4 g/mol · CID 99131523<br>
+<sub>Randomly picked from PubChem on 2026-11-13</sub>
 </div>
 <!-- MOLECULE:END -->
 
