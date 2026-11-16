@@ -75,12 +75,12 @@
 ### 📡 Recent activities
 
 <!-- ACTIVITY:START -->
-- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Merge pull request #4 from Holy-Negi/lec03` <sub>(18時間前)</sub>
-- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(28日前)</sub>
-- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(28日前)</sub>
-- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(28日前)</sub>
+- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Merge pull request #4 from Holy-Negi/lec03` <sub>(1日前)</sub>
+- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(29日前)</sub>
+- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(29日前)</sub>
+- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(29日前)</sub>
 
-<sub>最終更新: 2026-11-15 10:06 JST</sub>
+<sub>最終更新: 2026-11-16 10:06 JST</sub>
 <!-- ACTIVITY:END -->
 
 ### ⚗️ Molecule of the Day
@@ -88,13 +88,13 @@
 <!-- MOLECULE:START -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/121959592-dark.svg">
-  <img src="assets/molecule/121959592-light.svg" alt="2-[(3-Methoxythiophene-2-carbonyl)amino]-3-(1,2,3,4-tetrahydronaphthalen-1-yl)propanoic acid" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/109147275-dark.svg">
+  <img src="assets/molecule/109147275-light.svg" alt="1-N-[3-(dimethylamino)propyl]-4-N-(3-methylbutyl)cyclohexane-1,4-dicarboxamide" width="360">
 </picture>
 <br>
-<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/121959592">2-[(3-Methoxythiophene-2-carbonyl)amino]-3-(1,2,3,4-tetrahydronaphthalen-1-yl)propanoic acid</a></b><br>
-C<sub>19</sub>H<sub>21</sub>NO<sub>4</sub>S · 359.4 g/mol · CID 121959592<br>
-<sub>Randomly picked from PubChem on 2026-11-15</sub>
+<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/109147275">1-N-[3-(dimethylamino)propyl]-4-N-(3-methylbutyl)cyclohexane-1,4-dicarboxamide</a></b><br>
+C<sub>18</sub>H<sub>35</sub>N<sub>3</sub>O<sub>2</sub> · 325.5 g/mol · CID 109147275<br>
+<sub>Randomly picked from PubChem on 2026-11-16</sub>
 </div>
 <!-- MOLECULE:END -->
 
