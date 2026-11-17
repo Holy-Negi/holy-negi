@@ -75,12 +75,12 @@
 ### 📡 Recent activities
 
 <!-- ACTIVITY:START -->
-- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Merge pull request #4 from Holy-Negi/lec03` <sub>(1日前)</sub>
-- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(29日前)</sub>
-- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(29日前)</sub>
-- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(29日前)</sub>
+- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Merge pull request #3 from Holy-Negi/lec03` <sub>(3日前)</sub>
+- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(30日前)</sub>
+- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(30日前)</sub>
+- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(30日前)</sub>
 
-<sub>最終更新: 2026-11-16 10:06 JST</sub>
+<sub>最終更新: 2026-11-17 12:58 JST</sub>
 <!-- ACTIVITY:END -->
 
 ### ⚗️ Molecule of the Day
@@ -88,13 +88,13 @@
 <!-- MOLECULE:START -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/109147275-dark.svg">
-  <img src="assets/molecule/109147275-light.svg" alt="1-N-[3-(dimethylamino)propyl]-4-N-(3-methylbutyl)cyclohexane-1,4-dicarboxamide" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/134615421-dark.svg">
+  <img src="assets/molecule/134615421-light.svg" alt="2-[2-Chloro-6-[4-(trifluoromethyl)phenyl]phenyl]-2-hydroxyacetic acid" width="360">
 </picture>
 <br>
-<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/109147275">1-N-[3-(dimethylamino)propyl]-4-N-(3-methylbutyl)cyclohexane-1,4-dicarboxamide</a></b><br>
-C<sub>18</sub>H<sub>35</sub>N<sub>3</sub>O<sub>2</sub> · 325.5 g/mol · CID 109147275<br>
-<sub>Randomly picked from PubChem on 2026-11-16</sub>
+<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/134615421">2-[2-Chloro-6-[4-(trifluoromethyl)phenyl]phenyl]-2-hydroxyacetic acid</a></b><br>
+C<sub>15</sub>H<sub>10</sub>ClF<sub>3</sub>O<sub>3</sub> · 330.68 g/mol · CID 134615421<br>
+<sub>Randomly picked from PubChem on 2026-11-17</sub>
 </div>
 <!-- MOLECULE:END -->
 
