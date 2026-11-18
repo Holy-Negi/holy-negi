@@ -76,11 +76,10 @@
 
 <!-- ACTIVITY:START -->
 - [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Merge pull request #3 from Holy-Negi/lec03` <sub>(3日前)</sub>
-- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(30日前)</sub>
-- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(30日前)</sub>
-- [`holy-negi`](https://github.com/Holy-Negi/holy-negi) — `fix: include CID in molecule SVG filenames to bust image cache` <sub>(30日前)</sub>
+- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(31日前)</sub>
+- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(31日前)</sub>
 
-<sub>最終更新: 2026-11-17 12:58 JST</sub>
+<sub>最終更新: 2026-11-18 11:56 JST</sub>
 <!-- ACTIVITY:END -->
 
 ### ⚗️ Molecule of the Day
@@ -88,13 +87,13 @@
 <!-- MOLECULE:START -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/134615421-dark.svg">
-  <img src="assets/molecule/134615421-light.svg" alt="2-[2-Chloro-6-[4-(trifluoromethyl)phenyl]phenyl]-2-hydroxyacetic acid" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/72873236-dark.svg">
+  <img src="assets/molecule/72873236-light.svg" alt="4-{[1-(2,3-dihydro-1H-inden-1-ylacetyl)-4-piperidinyl]carbonyl}morpholine" width="360">
 </picture>
 <br>
-<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/134615421">2-[2-Chloro-6-[4-(trifluoromethyl)phenyl]phenyl]-2-hydroxyacetic acid</a></b><br>
-C<sub>15</sub>H<sub>10</sub>ClF<sub>3</sub>O<sub>3</sub> · 330.68 g/mol · CID 134615421<br>
-<sub>Randomly picked from PubChem on 2026-11-17</sub>
+<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/72873236">4-{[1-(2,3-dihydro-1H-inden-1-ylacetyl)-4-piperidinyl]carbonyl}morpholine</a></b><br>
+C<sub>21</sub>H<sub>28</sub>N<sub>2</sub>O<sub>3</sub> · 356.5 g/mol · CID 72873236<br>
+<sub>Randomly picked from PubChem on 2026-11-18</sub>
 </div>
 <!-- MOLECULE:END -->
 
