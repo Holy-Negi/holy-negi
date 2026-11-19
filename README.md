@@ -75,11 +75,9 @@
 ### 📡 Recent activities
 
 <!-- ACTIVITY:START -->
-- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Merge pull request #3 from Holy-Negi/lec03` <sub>(3日前)</sub>
-- [`synth-eln`](https://github.com/Holy-Negi/synth-eln) — `feat: add some features` <sub>(31日前)</sub>
-- [`portfolio`](https://github.com/Holy-Negi/portfolio) — `add some skills to skillsets` <sub>(31日前)</sub>
+- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Merge pull request #3 from Holy-Negi/lec03` <sub>(4日前)</sub>
 
-<sub>最終更新: 2026-11-18 11:56 JST</sub>
+<sub>最終更新: 2026-11-19 11:38 JST</sub>
 <!-- ACTIVITY:END -->
 
 ### ⚗️ Molecule of the Day
@@ -87,13 +85,13 @@
 <!-- MOLECULE:START -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/72873236-dark.svg">
-  <img src="assets/molecule/72873236-light.svg" alt="4-{[1-(2,3-dihydro-1H-inden-1-ylacetyl)-4-piperidinyl]carbonyl}morpholine" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/20403929-dark.svg">
+  <img src="assets/molecule/20403929-light.svg" alt="[4-[4-(4-Butylcyclohexen-1-yl)phenyl]phenyl] nonanoate" width="360">
 </picture>
 <br>
-<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/72873236">4-{[1-(2,3-dihydro-1H-inden-1-ylacetyl)-4-piperidinyl]carbonyl}morpholine</a></b><br>
-C<sub>21</sub>H<sub>28</sub>N<sub>2</sub>O<sub>3</sub> · 356.5 g/mol · CID 72873236<br>
-<sub>Randomly picked from PubChem on 2026-11-18</sub>
+<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/20403929">[4-[4-(4-Butylcyclohexen-1-yl)phenyl]phenyl] nonanoate</a></b><br>
+C<sub>31</sub>H<sub>42</sub>O<sub>2</sub> · 446.7 g/mol · CID 20403929<br>
+<sub>Randomly picked from PubChem on 2026-11-19</sub>
 </div>
 <!-- MOLECULE:END -->
 
