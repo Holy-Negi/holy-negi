@@ -75,9 +75,9 @@
 ### 📡 Recent activities
 
 <!-- ACTIVITY:START -->
-- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Merge pull request #3 from Holy-Negi/lec03` <sub>(5日前)</sub>
+- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Merge pull request #3 from Holy-Negi/lec03` <sub>(6日前)</sub>
 
-<sub>最終更新: 2026-11-20 11:23 JST</sub>
+<sub>最終更新: 2026-11-21 11:25 JST</sub>
 <!-- ACTIVITY:END -->
 
 ### ⚗️ Molecule of the Day
@@ -85,13 +85,13 @@
 <!-- MOLECULE:START -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/155900762-dark.svg">
-  <img src="assets/molecule/155900762-light.svg" alt="8-(2-Methylfuran-3-carbonyl)-2-pyridin-3-yl-2,8-diazaspiro[4.5]decan-1-one" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/126309325-dark.svg">
+  <img src="assets/molecule/126309325-light.svg" alt="[4-bromo-2-[(E)-[(3,4-diethoxybenzoyl)hydrazinylidene]methyl]phenyl] 4-chlorobenzenesulfonate" width="360">
 </picture>
 <br>
-<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/155900762">8-(2-Methylfuran-3-carbonyl)-2-pyridin-3-yl-2,8-diazaspiro[4.5]decan-1-one</a></b><br>
-C<sub>19</sub>H<sub>21</sub>N<sub>3</sub>O<sub>3</sub> · 339.4 g/mol · CID 155900762<br>
-<sub>Randomly picked from PubChem on 2026-11-20</sub>
+<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/126309325">[4-bromo-2-[(E)-[(3,4-diethoxybenzoyl)hydrazinylidene]methyl]phenyl] 4-chlorobenzenesulfonate</a></b><br>
+C<sub>24</sub>H<sub>22</sub>BrClN<sub>2</sub>O<sub>6</sub>S · 581.9 g/mol · CID 126309325<br>
+<sub>Randomly picked from PubChem on 2026-11-21</sub>
 </div>
 <!-- MOLECULE:END -->
 
