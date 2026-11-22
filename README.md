@@ -75,9 +75,9 @@
 ### 📡 Recent activities
 
 <!-- ACTIVITY:START -->
-- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Merge pull request #3 from Holy-Negi/lec03` <sub>(6日前)</sub>
+- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Merge pull request #3 from Holy-Negi/lec03` <sub>(7日前)</sub>
 
-<sub>最終更新: 2026-11-21 11:25 JST</sub>
+<sub>最終更新: 2026-11-22 10:24 JST</sub>
 <!-- ACTIVITY:END -->
 
 ### ⚗️ Molecule of the Day
@@ -85,13 +85,13 @@
 <!-- MOLECULE:START -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/126309325-dark.svg">
-  <img src="assets/molecule/126309325-light.svg" alt="[4-bromo-2-[(E)-[(3,4-diethoxybenzoyl)hydrazinylidene]methyl]phenyl] 4-chlorobenzenesulfonate" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/43777458-dark.svg">
+  <img src="assets/molecule/43777458-light.svg" alt="3-(1-Phenylhexylamino)propanamide" width="360">
 </picture>
 <br>
-<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/126309325">[4-bromo-2-[(E)-[(3,4-diethoxybenzoyl)hydrazinylidene]methyl]phenyl] 4-chlorobenzenesulfonate</a></b><br>
-C<sub>24</sub>H<sub>22</sub>BrClN<sub>2</sub>O<sub>6</sub>S · 581.9 g/mol · CID 126309325<br>
-<sub>Randomly picked from PubChem on 2026-11-21</sub>
+<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/43777458">3-(1-Phenylhexylamino)propanamide</a></b><br>
+C<sub>15</sub>H<sub>24</sub>N<sub>2</sub>O · 248.36 g/mol · CID 43777458<br>
+<sub>Randomly picked from PubChem on 2026-11-22</sub>
 </div>
 <!-- MOLECULE:END -->
 
