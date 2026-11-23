@@ -75,9 +75,9 @@
 ### 📡 Recent activities
 
 <!-- ACTIVITY:START -->
-- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — `Merge pull request #3 from Holy-Negi/lec03` <sub>(7日前)</sub>
+- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — PR #6 を作成 <sub>(8時間前)</sub>
 
-<sub>最終更新: 2026-11-22 10:24 JST</sub>
+<sub>最終更新: 2026-11-23 10:48 JST</sub>
 <!-- ACTIVITY:END -->
 
 ### ⚗️ Molecule of the Day
@@ -85,13 +85,13 @@
 <!-- MOLECULE:START -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/43777458-dark.svg">
-  <img src="assets/molecule/43777458-light.svg" alt="3-(1-Phenylhexylamino)propanamide" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/80542811-dark.svg">
+  <img src="assets/molecule/80542811-light.svg" alt="4-amino-N-[2-(2-chlorophenoxy)ethyl]-N,2-dimethylbutanamide" width="360">
 </picture>
 <br>
-<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/43777458">3-(1-Phenylhexylamino)propanamide</a></b><br>
-C<sub>15</sub>H<sub>24</sub>N<sub>2</sub>O · 248.36 g/mol · CID 43777458<br>
-<sub>Randomly picked from PubChem on 2026-11-22</sub>
+<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/80542811">4-amino-N-[2-(2-chlorophenoxy)ethyl]-N,2-dimethylbutanamide</a></b><br>
+C<sub>14</sub>H<sub>21</sub>ClN<sub>2</sub>O<sub>2</sub> · 284.78 g/mol · CID 80542811<br>
+<sub>Randomly picked from PubChem on 2026-11-23</sub>
 </div>
 <!-- MOLECULE:END -->
 
