@@ -75,9 +75,9 @@
 ### 📡 Recent activities
 
 <!-- ACTIVITY:START -->
-- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — PR #6 を作成 <sub>(8時間前)</sub>
+- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — PR #6 を作成 <sub>(1日前)</sub>
 
-<sub>最終更新: 2026-11-23 10:48 JST</sub>
+<sub>最終更新: 2026-11-24 14:21 JST</sub>
 <!-- ACTIVITY:END -->
 
 ### ⚗️ Molecule of the Day
@@ -85,13 +85,13 @@
 <!-- MOLECULE:START -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/80542811-dark.svg">
-  <img src="assets/molecule/80542811-light.svg" alt="4-amino-N-[2-(2-chlorophenoxy)ethyl]-N,2-dimethylbutanamide" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/122213123-dark.svg">
+  <img src="assets/molecule/122213123-light.svg" alt="methyl (2R)-2-hydroxy-4-oxo-2-[(E)-2-phenylethenyl]pentanoate" width="360">
 </picture>
 <br>
-<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/80542811">4-amino-N-[2-(2-chlorophenoxy)ethyl]-N,2-dimethylbutanamide</a></b><br>
-C<sub>14</sub>H<sub>21</sub>ClN<sub>2</sub>O<sub>2</sub> · 284.78 g/mol · CID 80542811<br>
-<sub>Randomly picked from PubChem on 2026-11-23</sub>
+<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/122213123">methyl (2R)-2-hydroxy-4-oxo-2-[(E)-2-phenylethenyl]pentanoate</a></b><br>
+C<sub>14</sub>H<sub>16</sub>O<sub>4</sub> · 248.27 g/mol · CID 122213123<br>
+<sub>Randomly picked from PubChem on 2026-11-24</sub>
 </div>
 <!-- MOLECULE:END -->
 
