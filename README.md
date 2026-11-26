@@ -75,9 +75,9 @@
 ### 📡 Recent activities
 
 <!-- ACTIVITY:START -->
-- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — PR #6 を作成 <sub>(2日前)</sub>
+- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — PR #6 を作成 <sub>(3日前)</sub>
 
-<sub>最終更新: 2026-11-25 13:17 JST</sub>
+<sub>最終更新: 2026-11-26 12:37 JST</sub>
 <!-- ACTIVITY:END -->
 
 ### ⚗️ Molecule of the Day
@@ -85,13 +85,13 @@
 <!-- MOLECULE:START -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/97597573-dark.svg">
-  <img src="assets/molecule/97597573-light.svg" alt="2-[[(S)-cyclopentyl-(2-fluorophenyl)methyl]carbamoylamino]-N,N-dimethylacetamide" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/71402592-dark.svg">
+  <img src="assets/molecule/71402592-light.svg" alt="L-Lysyl-L-alanyl-L-methionyl-L-serine" width="360">
 </picture>
 <br>
-<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/97597573">2-[[(S)-cyclopentyl-(2-fluorophenyl)methyl]carbamoylamino]-N,N-dimethylacetamide</a></b><br>
-C<sub>17</sub>H<sub>24</sub>FN<sub>3</sub>O<sub>2</sub> · 321.4 g/mol · CID 97597573<br>
-<sub>Randomly picked from PubChem on 2026-11-25</sub>
+<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/71402592">L-Lysyl-L-alanyl-L-methionyl-L-serine</a></b><br>
+C<sub>17</sub>H<sub>33</sub>N<sub>5</sub>O<sub>6</sub>S · 435.5 g/mol · CID 71402592<br>
+<sub>Randomly picked from PubChem on 2026-11-26</sub>
 </div>
 <!-- MOLECULE:END -->
 
