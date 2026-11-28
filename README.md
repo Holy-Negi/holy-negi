@@ -75,9 +75,9 @@
 ### 📡 Recent activities
 
 <!-- ACTIVITY:START -->
-- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — PR #6 を作成 <sub>(4日前)</sub>
+- [`lecture-ai-engineering-2026`](https://github.com/Holy-Negi/lecture-ai-engineering-2026) — PR #6 を作成 <sub>(5日前)</sub>
 
-<sub>最終更新: 2026-11-27 12:39 JST</sub>
+<sub>最終更新: 2026-11-28 12:20 JST</sub>
 <!-- ACTIVITY:END -->
 
 ### ⚗️ Molecule of the Day
@@ -85,13 +85,13 @@
 <!-- MOLECULE:START -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/141272369-dark.svg">
-  <img src="assets/molecule/141272369-light.svg" alt="1-[4-[(2-Azido-3-phenylphenyl)diazenyl]phenyl]ethanone" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/molecule/65908072-dark.svg">
+  <img src="assets/molecule/65908072-light.svg" alt="N-[[1-[[butyl(cyclopropyl)amino]methyl]-4-methylcyclohexyl]methyl]cyclopropanamine" width="360">
 </picture>
 <br>
-<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/141272369">1-[4-[(2-Azido-3-phenylphenyl)diazenyl]phenyl]ethanone</a></b><br>
-C<sub>20</sub>H<sub>15</sub>N<sub>5</sub>O · 341.4 g/mol · CID 141272369<br>
-<sub>Randomly picked from PubChem on 2026-11-27</sub>
+<b><a href="https://pubchem.ncbi.nlm.nih.gov/compound/65908072">N-[[1-[[butyl(cyclopropyl)amino]methyl]-4-methylcyclohexyl]methyl]cyclopropanamine</a></b><br>
+C<sub>19</sub>H<sub>36</sub>N<sub>2</sub> · 292.5 g/mol · CID 65908072<br>
+<sub>Randomly picked from PubChem on 2026-11-28</sub>
 </div>
 <!-- MOLECULE:END -->
 
